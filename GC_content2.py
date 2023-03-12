@@ -53,4 +53,4 @@ with open(filename, 'r') as f:
     #gene_3362   47.31%
     
     #Sequence with the highest GC content:
-    #Rosalind_5537   52.00%
+    #gene_5537   52.00%
