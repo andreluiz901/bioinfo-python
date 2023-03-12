@@ -40,3 +40,17 @@ with open(filename, 'r') as f:
 
     # Print the sequence ID with the highest GC content
     print(f"\nSequence with the highest GC content:\n{max_gc_id}\t{max_gc:.2f}%")
+
+    
+    #Output prints like this:
+    #gene_0092   50.54%
+    #gene_4020   48.28%
+    #gene_7302   51.62%
+    #gene_5537   52.00%
+    #gene_9270   50.05%
+    #gene_4448   50.46%
+    #gene_3112   47.75%
+    #gene_3362   47.31%
+    
+    #Sequence with the highest GC content:
+    #Rosalind_5537   52.00%
